@@ -23,3 +23,13 @@ A defective notice opens one bounded cure window. Only the issuer can submit a r
 - permissionless expiry, so an issuer cannot stall a defective record forever.
 
 The sample records are operator-authored fixtures. They demonstrate contract mechanics, not legal advice or an actual appeal right.
+
+## StudioNet proof
+
+- Contract: [`0x82e9feAd7286c33dDcfC2a6Fd000D7d3E383b930`](https://explorer-studio.genlayer.com/address/0x82e9feAd7286c33dDcfC2a6Fd000D7d3E383b930)
+- Deployment: [`0x79e95d893371c5df60a5a393de3f8c00544ecdcffc347b44ce8ad3a302ac2908`](https://explorer-studio.genlayer.com/transactions/0x79e95d893371c5df60a5a393de3f8c00544ecdcffc347b44ce8ad3a302ac2908)
+- Open audit: [`0x39f9255e83519fceca0183331e2e554deba2bd9ea0601ffce3f53b265382c5c6`](https://explorer-studio.genlayer.com/transactions/0x39f9255e83519fceca0183331e2e554deba2bd9ea0601ffce3f53b265382c5c6)
+- Defect inspection: [`0xd723971f736d8566980cdd568363f386e20fe6ce11111bac2df4824757c0d8c5`](https://explorer-studio.genlayer.com/transactions/0xd723971f736d8566980cdd568363f386e20fe6ce11111bac2df4824757c0d8c5)
+- Corrected notice: [`0x609a628e160065a9596bfa148e12d02523d57764e8c8b7f574488cbf0af7c752`](https://explorer-studio.genlayer.com/transactions/0x609a628e160065a9596bfa148e12d02523d57764e8c8b7f574488cbf0af7c752)
+- Readback: `APPEAL-1791122900`, revision `1`, state `CURED`.
+- Exact deployed source SHA-256: `750795797b8c03db3aae943b7ce1833458df2139184c6180ba9e38be56bc9f5d`.

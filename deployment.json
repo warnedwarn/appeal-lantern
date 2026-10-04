@@ -1,0 +1,8 @@
+{
+  "network": "StudioNet",
+  "account": "warnedwarn",
+  "contractAddress": "0x82e9feAd7286c33dDcfC2a6Fd000D7d3E383b930",
+  "deploymentTransaction": "0x79e95d893371c5df60a5a393de3f8c00544ecdcffc347b44ce8ad3a302ac2908",
+  "sourceSha256": "750795797b8c03db3aae943b7ce1833458df2139184c6180ba9e38be56bc9f5d",
+  "repository": "https://github.com/warnedwarn/appeal-lantern"
+}
